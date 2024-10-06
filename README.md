@@ -1,5 +1,4 @@
 # CTF-templates
-How to make your own CTF with Virtual Box
 Download the template CTF virtual machine then click Import.
 ![Screenshot_20241005_192206](https://github.com/user-attachments/assets/2c0b24d0-9789-4c54-9518-24835d6d2fad)
 
