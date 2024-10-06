@@ -22,7 +22,7 @@ Once the virtual machine finishes booting you will see the login screen. You nee
 
 ![Screenshot_20241005_230138](https://github.com/user-attachments/assets/49f52653-c3eb-49ba-a479-49684c1ac112)
 
-The first step is changing the hostname. Type in “nano /etc/hostname”, this will open a text file in the nano text editor. Delete the text that is there and replace it with “(your name)-CTF-(CTF number)” then save it by pressing ctrl+x then y, then enter.
+The first step is changing the [hostname](https://en.wikipedia.org/wiki/Hostname). Type in “nano /etc/hostname”, this will open a text file in the [nano](https://en.wikipedia.org/wiki/GNU_nano) text editor. Delete the text that is there and replace it with “(your name)-CTF-(CTF number)” then save it by pressing ctrl+x then y, then enter.
 ![Screenshot_20241005_230212](https://github.com/user-attachments/assets/b2c63252-ed44-4cb4-86ec-13d5936c9c15)
 ![Screenshot_20241005_232636](https://github.com/user-attachments/assets/2e8139ab-bf1d-4cb3-97ec-b7517f012bf5)
 
@@ -38,7 +38,7 @@ Once you have completed your CTF make sure to shut down the system then click on
 Click on “CTF template-disk001.vmdk” then click on Move at the top. Save the file as “(your name) CTF (CTF number).vmdk”. Then right-click on the file and go to properties
 ![Screenshot_20241005_200530](https://github.com/user-attachments/assets/078be427-8709-4429-b745-98d7f3a409f8)
 
-Find where the file is located and email it to me along with the password
+Find where the file is located and [email](mailto:lm7204@pleasantonusd.net) it to me along with the password
 ![Screenshot_20241005_193746](https://github.com/user-attachments/assets/02e9dd54-3c99-4065-abd9-a15c40302ab7)
 
-If you have any questions email me at lm7204@pleasantonusd.net
+If you have any questions email me at [lm7204@pleasantonusd.net](mailto:lm7204@pleasantonusd.net)
