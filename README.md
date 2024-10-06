@@ -27,9 +27,11 @@ The first step is changing the [hostname](https://en.wikipedia.org/wiki/Hostname
 ![Screenshot_20241005_232636](https://github.com/user-attachments/assets/2e8139ab-bf1d-4cb3-97ec-b7517f012bf5)
 
 Next change the password with the ”passwd” command. It is important to write this down somewhere so you will not lose it. You cannot see what you are typing for security reasons.
+
 ![Screenshot_20241005_230249](https://github.com/user-attachments/assets/7395567e-9bc6-44eb-8ba3-3216313b851c)
 
 There is another user called player that the player will SSH into. I recommend making your CTF in the root user’s home directory and copying files to the player’s home directory when done.
+
 ![Screenshot_20241005_233050](https://github.com/user-attachments/assets/9736da97-2cc8-4ebd-b9b8-23b32e7e49d9)
 
 Once you have completed your CTF make sure to shut down the system then click on File > Tools> Virtual Media Manager.
