@@ -22,7 +22,7 @@ Once the virtual machine finishes booting you will see the login screen. You nee
 
 ![Screenshot_20241005_230138](https://github.com/user-attachments/assets/49f52653-c3eb-49ba-a479-49684c1ac112)
 
-The first step is changing the <a href="https://en.wikipedia.org/wiki/Hostname" target="_blank">hostname</a>. Type in “nano /etc/hostname”, this will open a text file in the <a href="https://en.wikipedia.org/wiki/GNU_nano" target="_blank">nano</a> text editor. Delete the text that is there and replace it with “(your name)-CTF-(CTF number)” then save it by pressing ctrl+x then y, then enter.
+The first step is changing the [hostname](https://en.wikipedia.org/wiki/Hostname). Type in “nano /etc/hostname”, this will open a text file in the [nano](https://en.wikipedia.org/wiki/GNU_nano) text editor. Delete the text that is there and replace it with “(your name)-CTF-(CTF number)” then save it by pressing ctrl+x then y, then enter.
 ![Screenshot_20241005_230212](https://github.com/user-attachments/assets/b2c63252-ed44-4cb4-86ec-13d5936c9c15)
 ![Screenshot_20241005_232636](https://github.com/user-attachments/assets/2e8139ab-bf1d-4cb3-97ec-b7517f012bf5)
 
